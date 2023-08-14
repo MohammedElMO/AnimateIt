@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
-  "types": "dist/src/components/index.d.ts",
+  "types": "dist/src/index.d.ts",
   "exports": {
     ".": {
       "import": "./dist/index.es.js",

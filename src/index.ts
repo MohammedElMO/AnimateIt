@@ -1,6 +1,6 @@
 import { ComponentProps } from "react";
 
-export { default as AnimateIt } from "./components/AnimateIt";
+export { default as AnimateIt } from "./AnimateIt";
 export type TypingProps = {
   text: string;
   timeToShow: number;

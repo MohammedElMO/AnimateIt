@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { TypingProps } from "..";
+import { TypingProps } from ".";
 
 function AnimateTyping({ text, timeToShow, ...props }: TypingProps) {
   const [higherIndex, setHigherIndex] = useState(text.length);
